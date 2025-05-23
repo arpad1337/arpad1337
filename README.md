@@ -4,7 +4,7 @@
 
 ## Overview
 
-Árpád Kish is a Hungarian software engineer, entrepreneur, and consultant with over two decades of experience in digital product development, cloud engineering, and artificial intelligence. He is the founder and CEO of GreenEyes.AI, a company specializing in cloud-native computer vision APIs and sustainable AI solutions.
+Árpád Kish is a software engineer, entrepreneur, and consultant with over two decades of experience in digital product development, cloud engineering, and artificial intelligence. He is the founder and CEO of GreenEyes.AI, a company specializing in cloud-native computer vision APIs and sustainable AI solutions.
 
 ## Career Highlights
 
