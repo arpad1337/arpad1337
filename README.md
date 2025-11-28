@@ -2,7 +2,7 @@
 
 # Árpád Kish
 
-Árpád Kish is a software development consultant and entrepreneur, currently serving as the CEO of [GreenEyes.AI](https://www.greeneyes.ai), a company he co-founded in 2022. GreenEyes.AI specializes in building plug-and-play web APIs and SaaS products focused on advanced machine vision tasks, advocating for responsible technology and sustainable solutions.
+Árpád Kish (1990) is a software development consultant and entrepreneur, currently serving as the CEO of [GreenEyes.AI](https://www.greeneyes.ai), a company he co-founded in 2022. GreenEyes.AI specializes in building plug-and-play web APIs and SaaS products focused on advanced machine vision tasks, advocating for responsible technology and sustainable solutions.
 
 ## Early Career
 
